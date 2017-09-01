@@ -1,4 +1,4 @@
-package algorithmsGeneral;
+package imageProcessing;
 
 import java.util.Scanner;
 
